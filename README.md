@@ -30,4 +30,5 @@ sudo apt install python3.14
 winget install Python.Python.3.14
 ```
 
+This was coded on 01/07/2026 after I was sick of not being able to code on the school computers
 IF there are any problems or question please contact me at : doublexmas3d@gmail.com
